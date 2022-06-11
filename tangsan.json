@@ -9,7 +9,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"clan://tangsan99999/doraAmen.jar",
+"spider":"https://aug-yu.github.io/maotv/tangsan.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL3RhbmdzYW45OTk5OS90di9saXZlLnR4dA=="
