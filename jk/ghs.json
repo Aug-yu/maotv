@@ -1,14 +1,6 @@
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
- 
-"spider":"clan://baddychen0608/baddychen0608.jar",
-
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=Y2xhbjovL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
-]}]}],
-
-
-
+"spider":"https://aug-yu.github.io/maotv/jk/bc.jar",
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hdWcteXUuZ2l0aHViLmlvL21hb3R2L2prL3R2L2JjLnR4dA=="]}]}],
 
 "sites":[
     {"key":"523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
