@@ -7,6 +7,7 @@
 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"spider":"https://aug-yu.github.io/maotv/jk/ts.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL2NhdC90cy90di9saXZlLnR4dA=="
 ]}]}],
