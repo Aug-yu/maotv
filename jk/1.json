@@ -261,7 +261,6 @@
                "url":"https://www.pangujiexi.cc/jiexi.php?url=",
                "ext":{
                         "flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],
-                        "header":{"User-Agent":"Dalvik/2.1.0"}
                         }
         },
         {     
