@@ -261,7 +261,8 @@
                "url":"https://www.pangujiexi.cc/jiexi.php?url=",
                "ext":{
                         "flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],
-                        }
+              "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"}
         },
         {     
                "name":"江湖",
