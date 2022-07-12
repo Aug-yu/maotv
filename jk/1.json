@@ -255,15 +255,6 @@
                        "flag":["qiyi","youku","mgtv","qq","sohu","bilibili","xigua","1905"]
                        }
         },
-        {
-               "name":"测1",
-               "type":1,
-               "url":"https://www.pangujiexi.cc/jiexi.php?url=",
-               "ext":{
-                        "flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],
-              "header": {
-                    "User-Agent": "Dart/2.14 (dart:io)"}
-        },
         {     
                "name":"江湖",
                "type":1,
