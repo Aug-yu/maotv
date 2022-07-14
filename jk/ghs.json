@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "csp_biubiu_麻豆社",
+      "name": "麻豆社",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://aug-yu.github.io/maotv/jk/MaooXB/mdys.json"
+    },
+    {
       "key": "*523资源",
       "name": "*523资源",
       "type": 1,
