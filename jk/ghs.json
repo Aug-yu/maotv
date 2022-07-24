@@ -1,5 +1,62 @@
 {
   "sites": [
+     {
+      "key": "*麻豆视频2",
+      "name": "*麻豆视频2",
+      "type": 1,
+      "api": "https://madouse.la/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "*91麻豆",
+      "name": "*91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_xpath_xxj",
+      "name": "新香蕉(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json"
+    },
+     {
+      "key": "饮水机2",
+      "name": "饮水机",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "老鸭1",
+      "name": "老鸭1",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "老鸭2",
+      "name": "老鸭2",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "*523资源",
       "name": "*523资源",
@@ -428,24 +485,6 @@
       "name": "*抖阴视频",
       "type": 1,
       "api": "https://www.888dav.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "*麻豆视频2",
-      "name": "*麻豆视频2",
-      "type": 1,
-      "api": "https://madouse.la/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "*91麻豆",
-      "name": "*91麻豆",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
