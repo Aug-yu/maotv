@@ -28,6 +28,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+   {
+      "key": "AliPS",
+      "name": "盘搜",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ad3c78559a494bde814f1a6c8c40db51"
+    },
     {
       "key": "csp_biubiu_哔嘀影视",
       "name": "📮哔嘀影视(XB)",
@@ -56,24 +66,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Ikan",
-      "name": "爱看",
-      "type": 3,
-      "api": "csp_IKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Olevod",
-      "name": "Olevod",
-      "type": 3,
-      "api": "csp_Olevod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   // {"key": "Ikan","name": "爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+   // { "key": "Olevod","name": "Olevod","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "厂长影视",
       "name": "厂长影视",
@@ -200,16 +194,6 @@
       "name": "小纸条",
       "type": 3,
       "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
-    },
-    {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
