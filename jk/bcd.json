@@ -28,7 +28,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {
+    {
+      "key": "Kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "AliPS",
       "name": "盘搜",
       "type": 3,
@@ -142,15 +151,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://aug-yu.github.io/maotv/jk/MaooXP/jubaibai.json"
-    },
-    {
-      "key": "Kuaikan",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "zxzj",
@@ -488,5 +488,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://aug-yu.github.io/maotv/jk/bcd.jar;md5;B82BB46F98C468C3BA8B9257EFE35ABE"
+  "spider": "https://aug-yu.github.io/maotv/jk/bcd.jar;md5;D63FE3DB21B48E04884C2D5303907BD1"
 }
